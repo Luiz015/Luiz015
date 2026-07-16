@@ -7,7 +7,7 @@
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,vscode,idea,maven&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,maven&theme=dark" />
 </p>
 
 ---
